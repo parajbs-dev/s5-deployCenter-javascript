@@ -3456,9 +3456,9 @@ run-parallel@^1.1.9:
   dependencies:
     queue-microtask "^1.2.2"
 
-"s5-utils-javascript@https://github.com/parajbs-dev/s5-utils-javascript.git#0.1.0-beta1":
+"s5-utils-javascript@https://github.com/parajbs-dev/s5-utils-javascript.git#0.1.0-beta2":
   version "0.1.0-beta1"
-  resolved "https://github.com/parajbs-dev/s5-utils-javascript.git#f66bc1f979ae22e8d52eea454413f6ae6c0359a0"
+  resolved "https://github.com/parajbs-dev/s5-utils-javascript.git#2665553c310aecc37d3b3279a3e21abe1d99ed03"
   dependencies:
     "@babel/runtime" "^7.17.8"
     base32-encode "^1.1.1"
@@ -3469,9 +3469,9 @@ run-parallel@^1.1.9:
     url-join "^4.0.1"
     url-parse "^1.5.1"
 
-"s5Client-javascript@https://github.com/parajbs-dev/s5Client-javascript.git#0.1.0-beta1":
-  version "0.1.0-beta1"
-  resolved "https://github.com/parajbs-dev/s5Client-javascript.git#cba39652e81d0334ed54aebedb5501855b779914"
+"s5Client-javascript@https://github.com/parajbs-dev/s5Client-javascript.git#0.1.0-beta2":
+  version "0.1.0-beta2"
+  resolved "https://github.com/parajbs-dev/s5Client-javascript.git#2abc10e67d9bfc35663d927597167d80a3e9e7f8"
   dependencies:
     "@babel/runtime" "^7.17.8"
     "@types/file-saver" "^2.0.5"
@@ -3483,7 +3483,7 @@ run-parallel@^1.1.9:
     jszip "^3.10.1"
     mime "^3.0.0"
     path-browserify "1.0.1"
-    s5-utils-javascript "https://github.com/parajbs-dev/s5-utils-javascript.git#0.1.0-beta1"
+    s5-utils-javascript "https://github.com/parajbs-dev/s5-utils-javascript.git#0.1.0-beta2"
     tus-js-client "^3.1.0"
     url-join "^4.0.1"
     url-parse "^1.5.1"
